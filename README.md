@@ -104,7 +104,7 @@ Detailed findings are available in the Business Findings report.
 
 Example:
 
-![Dashboard Preview](Images/ExcelDashboard.png)
+![Dashboard Preview](Images/Excel-Dashboard.png)
 
 ---
 
