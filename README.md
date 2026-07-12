@@ -104,7 +104,10 @@ Detailed findings are available in the Business Findings report.
 
 Example:
 
-![Dashboard Preview](Images/Excel-Dashboard.png)
+<img width="567" height="470" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/d141721f-3510-45ab-96da-86634bdb7ee4" />
+<img width="567" height="315" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/c2353c81-bf36-42c2-9a10-5e93dfd9f9c2" />
+
+
 
 ---
 
