@@ -1,4 +1,3 @@
-[Readme.md](https://github.com/user-attachments/files/29937187/Readme.md)
 # 🛒 E-Commerce Sales & Customer Analysis
 End-to-end Data Analyst portfolio project covering SQL analysis, Excel data preparation, Power BI dashboard development, and business recommendations based on an e-commerce transactional dataset.
 
